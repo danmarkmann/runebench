@@ -1,11 +1,5 @@
-# RuneBench
+# RuneBench playground
 
-A playground for experimenting with RuneBench and watching an agent run.
+Experiments with [RuneBench](https://github.com/MaxBittker/runebench), focused on running an agent and watching it play RuneScape.
 
-## First milestone
-
-Run a small agent task and show its progress, actions, and output as it works.
-
-## Status
-
-Project setup only. The runtime and UI are still to be chosen.
+Inspired by [this talk](https://www.youtube.com/watch?v=cNm4zyUtWj0).
