@@ -1,0 +1,17 @@
+{
+  "name": "runebench-playground",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "node scripts/setup.mjs",
+    "start": "node scripts/play.mjs",
+    "stop": "node scripts/stop.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "bun": "1.4.3"
+  }
+}
